@@ -28,17 +28,27 @@ TODO: Please create a filled checkbox for each project development task that you
 TODO: Please do not fill in the checkbox if you did not complete the project development task
 TODO: You may check a checkbox if you completed the task for any of the three projects
 
-- [] Reviewed one or more pull requests in the GitHub repository for the project
-- [] Created one or more pull requests in the GitHub repository for the project
+#### Issue Tracker in GitHub
+
+- [] Discussed one or more issues in the GitHub repository for a project
+- [] Created one or more issues in the GitHub repository for a project
+- [] Resolved one or more issues in the GitHub repository for a project
+
+#### Pull Requests in GitHub
+
+- [] Reviewed one or more pull requests in the GitHub repository for a project
+- [] Created one or more pull requests in the GitHub repository for a project
 - [] Discussed one or more pull requests in the GitHub repository for the project
+- [] Made commits to a pull request that was approved for merger to the main trunk
 - [] Made commits to a pull request that was ultimately merged to the main trunk
-- [] Discussed one or more issues in the GitHub repository for the project
-- [] Created one or more issues in the GitHub repository for the project
-- [] Participated in the demonstration of a feature during a laboratory session
-- [] Participated in the class discussions about project development
+- [] Merged one or more pull requests to the main trunk of a project's GitHub repository
+
+#### Class Participation
+
+- [] Regularly participated in the demonstration of a feature during a class session
+- [] Regularly participated in the class discussions about project development
+- [] Assisted the project development team in the prioritization of engineering tasks
 - [] Completed all of the documentation and reflection tasks in this document
-- [] Gave an overall assessment for the prior module of the course
-- [] Made suggestions for improvement of the next module in the course
 
 ### Project Development Reflection
 
