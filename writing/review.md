@@ -210,6 +210,18 @@ such as: how reliable is the project? How complete is the project? How
 well-tested is the project? How maintainable is the project? How secure is the
 project? How likely is it that the project will be used for unethical purposes?
 
+##### Answer to First Question
+
+TODO: Please state question and then provide the answer to it.
+
+##### Answer to Second Question
+
+TODO: Please state question and then provide the answer to it.
+
+##### Answer to Third Question
+
+TODO: Please state question and then provide the answer to it.
+
 #### Suggestions for Improvement
 
 TODO: Provide a suggestion for improving the ways in which our software
