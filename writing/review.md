@@ -130,11 +130,11 @@ trunk of a project
 #### Project Commits
 
 TODO: Please report the number of commits that you made to a pull request that
-were ultimately merged to the main/master branch of the project. Importantly,
-you should only report the count of commits that were merged into the
-main/master trunk branch of the project. This means that you cannot count
-commits that were made to a branch for a pull request but not yet merged during
-the week range for this specific project development assessment.
+were ultimately merged to the main branch of the project. Importantly, you
+should only report the count of commits that were merged into the main trunk
+branch of the project. This means that you cannot count commits that were made
+to a branch for a pull request but not yet merged during the week range for this
+specific project development assessment.
 
 ##### ExecExam Project
 
