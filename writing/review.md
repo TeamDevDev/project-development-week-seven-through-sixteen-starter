@@ -52,27 +52,17 @@ TODO: You may check a checkbox if you completed the task for any of the three pr
 
 ### Project Development Reflection
 
-TODO: Provide a brief one paragraph response to these questions.
+#### Explain one project task that you have undertaken and that illustrates the distinction between programming and software engineering
 
-#### What is the purpose of the `gatorgrade` tool? How does it help a student in a computer science course?
+TODO: Please provide a one paragraph response to this question.
 
-TODO: Write a brief one paragraph response to this question.
+#### Describe one software engineering task that you could not complete before taking the course but can successfully complete now
 
-#### What is the purpose of the `gatorgrader` tool? How does it help a student in a computer science course?
+TODO: Please provide a one paragraph response to this question.
 
-TODO: Write a brief one paragraph response to this question.
+#### Knowing what you do now about project development, what advice would you give to yourself at the start of the academic semester?
 
-#### What is the purpose of the `execexam` tool? How does it help a student in a computer science course?
-
-TODO: Write a brief one paragraph response to this question.
-
-#### From the perspective of project development and the current status of the three aforementioned software tools, what is the greatest weakness of your software engineering team? Why? How would you advise the team to improve?
-
-TODO: Write a brief one paragraph response to this question.
-
-#### From the perspective of project development and the current status of the three aforementioned software tools, what is your greatest weakness? Why? How do you plan to improve as this course continues?
-
-TODO: Write a brief one paragraph response to this question.
+TODO: Please provide a one paragraph response to this question.
 
 ### Project Development Reflection
 
