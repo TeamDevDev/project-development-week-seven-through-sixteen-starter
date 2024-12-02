@@ -39,7 +39,7 @@ TODO: You may check a checkbox if you completed the task for any of the three pr
 - [] Reviewed one or more pull requests in the GitHub repository for a project
 - [] Created one or more pull requests in the GitHub repository for a project
 - [] Discussed one or more pull requests in the GitHub repository for the project
-- [] Made commits to a pull request that was approved for merger to the main trunk
+- [] Made commits to a pull request that was approved for merge to the main trunk
 - [] Made commits to a pull request that was ultimately merged to the main trunk
 - [] Merged one or more pull requests to the main trunk of a project's GitHub repository
 
@@ -54,20 +54,6 @@ TODO: You may check a checkbox if you completed the task for any of the three pr
 
 #### Explain one project task that you have undertaken and that illustrates the distinction between programming and software engineering
 
-TODO: Please provide a one paragraph response to this question.
-
-#### Describe one software engineering task that you could not complete before taking the course but can successfully complete now
-
-TODO: Please provide a one paragraph response to this question.
-
-#### Knowing what you do now about project development, what advice would you give to yourself at the start of the academic semester?
-
-TODO: Please provide a one paragraph response to this question.
-
-### Project Development Reflection
-
-#### Explain one project task that you have undertaken and that illustrates the distinction between programming and software engineering
-
 TODO: Please provide a brief one paragraph response to this question.
 
 #### Describe one software engineering task that you could not complete before taking the course but can successfully complete now
@@ -78,7 +64,7 @@ TODO: Please provide a brief one paragraph response to this question.
 
 TODO: Please provide a brief one paragraph response to this question.
 
-#### Project Contributions
+### Project Contributions
 
 TODO: You must provide a response to each of the following prompts by providing
 a list of the one or two most recent GitHub references, bearing in mind that
@@ -88,27 +74,58 @@ should only provide references to the GitHub repositories for `GatorGrade`,
 organization. This means that you should not provide references to any GitHub
 repositories in different organizations that are forks of the main repositories.
 
-##### Issue Tracker
+##### GitHub Issue Tracker
 
-TODO: Only provide references to the main GitHub repository for one of the three software tools
+TODO: Only provide references to the main GitHub repository for one of the
+three software tools. This means that you should not reference any issues in
+forks of the three software tools or issues in the GitHub repository for the
+course web site.
 
-TODO: Please provide a list of one or two of the most recent GitHub issues that you created:
+###### Created Issues
 
-TODO: Please provide a list of one or two of the most recent GitHub issues for which you participated in the discussion:
+TODO: Please provide a list of every GitHub issues that you created
 
-TODO: Please provide a list of one or two of the most recent GitHub issues for which you helped to resolve the issue:
+###### Participatory Issues
 
-##### Pull Requests
+TODO: Please provide a list of every GitHub issues for which you participated in
+the discussion
 
-TODO: Only provide references to the main GitHub repository for one of the three software tools
+###### Resolved Issues
 
-TODO: Please provide a list of one or two of the most recent GitHub pull requests that you created:
+TODO: Please provide a list of every GitHub issues for which you helped to
+resolve the issue
 
-TODO: Please provide a list of one or two of the most recent GitHub pull requests for which you participated in the discussion:
+##### GitHub Pull Requests
 
-TODO: Please provide a list of one or two of the most recent GitHub pull requests for which you made a major contribution:
+TODO: Only provide references to the main GitHub repository for one of the
+three software tools. This means that you should not reference any pull
+requests in forks of the three software tools or pull requests in the GitHub
+repository for the course web site.
 
-TODO: Please provide a list of one or two of the most recent GitHub pull requests that were merged to the project's main trunk:
+###### Reviewed Pull Requests
+
+TODO: Please provide a list of every pull request that you reviewed in the
+GitHub repository for a project
+
+###### Created Pull Requests
+
+TODO: Please provide a list of every pull request that you created in
+the GitHub repository for a project
+
+###### Discussed Pull Requests
+
+TODO: Please provide a list of every pull requests that you discussed in
+the GitHub repository for a project
+
+###### Approved Pull Requests
+
+TODO: Please provide a list of every pull request that was approved for merge to
+the main trunk of a project
+
+###### Merged Pull Requests
+
+TODO: Please provide a list of every pull request that was approved for merge to
+the main trunk of a project
 
 ##### Project Commits
 
@@ -119,7 +136,17 @@ main/master trunk branch of the project. This means that you cannot count
 commits that were made to a branch for a pull request but not yet merged during
 the week range for this specific project development assessment.
 
-I make `X` commits to main/master trunk branch of the long-term software project.
+###### ExecExam Project
+
+I make `X` commits to main branch of this long-term software project.
+
+###### GatorGrade Project
+
+I make `X` commits to main branch of this long-term software project.
+
+###### GatorGrader Project
+
+I make `X` commits to main branch of this long-term software project.
 
 ##### Project Leadership
 
@@ -133,8 +160,8 @@ not serve in a leadership role during the development of the projects.
 
 ### Feature Description
 
-TODO: Using your own words, please provide a one-to-three sentence description
-of a feature that you have added to the tool during any phase of the project.
+TODO: Using your own words, provide a brief one-to-three sentence description of
+a feature that you have added to the tool during this project phase.
 
 TODO: Bearing in mind the previous restriction, your response to this prompt
 should, if possible, explain the most "complex" feature that you implemented.
@@ -167,11 +194,15 @@ the Python source code that you found in the project's GitHub repository.
 
 ### Overall Project Assessment
 
+#### Answers to At Least Three Questions
+
 TODO: Please provide an overall assessment of the status of one of the long-term
 projects. Your response to this prompt should address at least three questions
 such as: how reliable is the project? How complete is the project? How
 well-tested is the project? How maintainable is the project? How secure is the
 project? How likely is it that the project will be used for unethical purposes?
+
+#### Suggestions for Improvement
 
 TODO: Provide a suggestion for improving the ways in which our software
 engineering team specifies, builds, tests, and deploys software.
