@@ -43,7 +43,7 @@
         tag: list
         count: 7
         exact: false
-    - description: Confirm that the markdown file has the required number of fenced code blocks
+    - description: Confirm that the markdown file has the required minimum number of fenced code blocks
       check: CountMarkdownTags
       options:
         tag: code_block
