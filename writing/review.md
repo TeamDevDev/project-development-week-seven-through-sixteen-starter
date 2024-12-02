@@ -74,60 +74,60 @@ should only provide references to the GitHub repositories for `GatorGrade`,
 organization. This means that you should not provide references to any GitHub
 repositories in different organizations that are forks of the main repositories.
 
-##### GitHub Issue Tracker
+#### GitHub Issue Tracker
 
 TODO: Only provide references to the main GitHub repository for one of the
 three software tools. This means that you should not reference any issues in
 forks of the three software tools or issues in the GitHub repository for the
 course web site.
 
-###### Created Issues
+##### Created Issues
 
 TODO: Please provide a list of every GitHub issues that you created
 
-###### Participatory Issues
+##### Participatory Issues
 
 TODO: Please provide a list of every GitHub issues for which you participated in
 the discussion
 
-###### Resolved Issues
+##### Resolved Issues
 
 TODO: Please provide a list of every GitHub issues for which you helped to
 resolve the issue
 
-##### GitHub Pull Requests
+#### GitHub Pull Requests
 
 TODO: Only provide references to the main GitHub repository for one of the
 three software tools. This means that you should not reference any pull
 requests in forks of the three software tools or pull requests in the GitHub
 repository for the course web site.
 
-###### Reviewed Pull Requests
+##### Reviewed Pull Requests
 
 TODO: Please provide a list of every pull request that you reviewed in the
 GitHub repository for a project
 
-###### Created Pull Requests
+##### Created Pull Requests
 
 TODO: Please provide a list of every pull request that you created in
 the GitHub repository for a project
 
-###### Discussed Pull Requests
+##### Discussed Pull Requests
 
 TODO: Please provide a list of every pull requests that you discussed in
 the GitHub repository for a project
 
-###### Approved Pull Requests
+##### Approved Pull Requests
 
 TODO: Please provide a list of every pull request that was approved for merge to
 the main trunk of a project
 
-###### Merged Pull Requests
+##### Merged Pull Requests
 
 TODO: Please provide a list of every pull request that was approved for merge to
 the main trunk of a project
 
-##### Project Commits
+#### Project Commits
 
 TODO: Please report the number of commits that you made to a pull request that
 were ultimately merged to the main/master branch of the project. Importantly,
@@ -136,19 +136,27 @@ main/master trunk branch of the project. This means that you cannot count
 commits that were made to a branch for a pull request but not yet merged during
 the week range for this specific project development assessment.
 
-###### ExecExam Project
+##### ExecExam Project
 
 I make `X` commits to main branch of this long-term software project.
 
-###### GatorGrade Project
+##### GatorGrade Project
 
 I make `X` commits to main branch of this long-term software project.
 
-###### GatorGrader Project
+##### GatorGrader Project
 
 I make `X` commits to main branch of this long-term software project.
 
-##### Project Leadership
+##### Overall Contribution
+
+TODO: Bearing in mind that commits to a GitHub repository are one, albeit
+limited, measure of a software engineer's productivity, how can you best
+represent your overall contributions to the long-term software projects? Please
+respond to this question with at least three sentences that argue for the
+strength of your overall contributions to the long-term software projects.
+
+#### Project Leadership
 
 TODO: Please summarize the ways in which you served as a leader of the project.
 Your response to this question should summarize your leadership role in at least
@@ -183,14 +191,14 @@ TODO: Add the output of the command that you executed in the previous code block
 
 ### Source Code Segment
 
-TODO: Pick one example of a source code segment found in one of the course projects.
-Your response to this question should furnish an input to a Python function, the
-output of the Python function when provided with the input, and the source code
-of the Python function itself. Your response to this question should also walk
-through the lines of the source code in detail, demonstrating your understanding
-of all the technical software engineering details associated with this source code.
-Your response to this question must contain a fenced code block with
-the Python source code that you found in the project's GitHub repository.
+TODO: Pick one example of a source code segment found in one of the course
+projects. Your response to this question should furnish an input to a Python
+function, the output of the Python function when provided with the input, and
+the source code of the Python function itself. Your response to this question
+should also walk through the lines of the source code in detail, demonstrating
+your understanding of all the technical software engineering details associated
+with this source code. Your response to this question must contain a fenced code
+block with the Python code that you found in the project's GitHub repository.
 
 ### Overall Project Assessment
 
