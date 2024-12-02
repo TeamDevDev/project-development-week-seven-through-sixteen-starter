@@ -37,7 +37,7 @@
         tag: heading
         count: 15
         exact: false
-    - description: Confirm that the markdown file has check lists (e.g., tasks and GitHub references)
+    - description: Confirm that the markdown file has at least seven check lists (e.g., tasks and GitHub references)
       check: CountMarkdownTags
       options:
         tag: list
