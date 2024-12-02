@@ -76,10 +76,10 @@ repositories in different organizations that are forks of the main repositories.
 
 #### GitHub Issue Tracker
 
-TODO: Only provide references to the main GitHub repository for one of the
-three software tools. This means that you should not reference any issues in
-forks of the three software tools or issues in the GitHub repository for the
-course web site.
+TODO: Only provide references to the main GitHub repository for one of the three
+software tools. This means that you should not reference any issues in forks of
+the three software tools or issues in the GitHub repository for the course web
+site.
 
 ##### Created Issues
 
@@ -97,10 +97,10 @@ resolve the issue
 
 #### GitHub Pull Requests
 
-TODO: Only provide references to the main GitHub repository for one of the
-three software tools. This means that you should not reference any pull
-requests in forks of the three software tools or pull requests in the GitHub
-repository for the course web site.
+TODO: Only provide references to the main GitHub repository for one of the three
+software tools. This means that you should not reference any pull requests in
+forks of the three software tools or pull requests in the GitHub repository for
+the course web site.
 
 ##### Reviewed Pull Requests
 
@@ -109,13 +109,13 @@ GitHub repository for a project
 
 ##### Created Pull Requests
 
-TODO: Please provide a list of every pull request that you created in
-the GitHub repository for a project
+TODO: Please provide a list of every pull request that you created in the GitHub
+repository for a project
 
 ##### Discussed Pull Requests
 
-TODO: Please provide a list of every pull requests that you discussed in
-the GitHub repository for a project
+TODO: Please provide a list of every pull requests that you discussed in the
+GitHub repository for a project
 
 ##### Approved Pull Requests
 
@@ -124,8 +124,8 @@ the main trunk of a project
 
 ##### Merged Pull Requests
 
-TODO: Please provide a list of every pull request that was approved for merge to
-the main trunk of a project
+TODO: Please provide a list of every pull request that was merged to the main
+trunk of a project
 
 #### Project Commits
 
