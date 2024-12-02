@@ -181,13 +181,13 @@ demonstrate the aforementioned feature of the tool on your laptop. Your
 response should also provide the command that you executed in an additional
 fenced code block. Please label both code blocks so that their identify is clear.
 
-- Fenced code block for the command that you executed
-
 TODO: Add the command that you executed to produce the following output
 
-- Fenced code block for the output of the command that you executed
+- Fenced code block for the command that you executed
 
 TODO: Add the output of the command that you executed in the previous code block.
+
+- Fenced code block for the output of the command that you executed
 
 ### Source Code Segment
 
